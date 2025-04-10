@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "primerpantalla",
+    "slug": "primerpantalla",
+    "owner": "kike7812elprogramador",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "sega",
+    "newArchEnabled": true,
+    "jsEngine": "jsc",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ruu18.primerpantalla"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3cd599dd-f13a-49b0-8d30-37c8c6259568"
+      }
+    }
+  }
+}
